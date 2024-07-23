@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author: Xiangchun Fu (xfu@redhat.com)
+# Author: Xiangchun Fu (xfu@redhat.com), Pei Zhang (pezhang@redhat.com)
 
 namespace = $1
 
